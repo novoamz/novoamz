@@ -5,6 +5,8 @@
 
 🌱 I’m currently learning rust
 
+[![novoamz GitHub stats](https://github-readme-stats.vercel.app/api?username=novoamz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 novo-root/novo-root is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
