@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning rust
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoamz&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novoamz&theme=tokyonight)
 
 <!---
 novo-root/novo-root is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
